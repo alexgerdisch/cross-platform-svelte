@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">svecapa</string>
+    <string name="title_activity_main">svecapa</string>
+    <string name="package_name">com.climbup.app</string>
+    <string name="custom_url_scheme">com.climbup.app</string>
+</resources>
